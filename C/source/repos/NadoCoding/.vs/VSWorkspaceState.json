@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\NadoCoding"
+    "\\NadoCoding",
+    "\\NadoCoding\\Debug"
   ],
-  "SelectedNode": "\\NadoCoding\\printfscanf.c",
+  "SelectedNode": "\\NadoCoding.sln",
   "PreviewInSolutionExplorer": false
 }
